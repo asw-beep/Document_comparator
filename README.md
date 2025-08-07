@@ -1,6 +1,7 @@
 # Document_comparator
 Put in two pdf documents and compare them 
 
+<img width="1905" height="958" alt="Screenshot from 2025-08-07 22-30-31" src="https://github.com/user-attachments/assets/542747cb-a4a0-479b-93e3-915e5de1a4b1" />
 
 
 🤖 AI-Powered Document Comparator
